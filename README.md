@@ -17,6 +17,11 @@ appjail makejail \
     -o expose=8080
 ```
 
+### Arguments
+
+* `ntfy_ajspec` (default: `gh+AppJail-makejails/ntfy`): Entry point where the `appjail-ajspec(5)` file is located.
+* `ntfy_tag` (default: `13.5`): see [#tags](#tags).
+
 ## Tags
 
 | Tag        | Arch     | Version            | Type   |
