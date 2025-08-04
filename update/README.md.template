@@ -4,7 +4,7 @@ ntfy (pronounced "notify") is a simple HTTP-based pub-sub notification service. 
 
 ntfy.sh
 
-<img src="https://ntfy.sh/_next/static/media/logo.077f6a13.svg" alt="ntfy logo" width="60%" height="auto">
+<img src="https://ntfy.sh/_next/static/media/logo.077f6a13.svg" alt="ntfy logo" width="30%" height="auto">
 
 ## How to use this Makejail
 
