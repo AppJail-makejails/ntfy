@@ -1,16 +1,17 @@
 tags+: 13.5
 13.5.arch: amd64
 13.5.name: "ntfy"
-13.5.timestamp.amd64: 1765229200
-13.5.sum.amd64: 89b384a94616fde4bfada3e07adafc25f5a516fc3ac27c01a6d33435ae6df543
-13.5.size.amd64: 111526623
+13.5.timestamp.amd64: 1767043285
+13.5.sum.amd64: 7d7457c07bd800cb823241b5a5dd41e698b801fac0316499fc38076220c8fea6
+13.5.size.amd64: 111449743
 13.5.source.amd64: "https://images.all101bsd.download/ntfy/13.5-amd64-image.appjail"
 13.5.source.amd64+: "http://appjail.hpc.at/ntfy/13.5-amd64-image.appjail"
 tags+: 14.3
 14.3.arch: amd64
 14.3.name: "ntfy"
-14.3.timestamp.amd64: 1765229332
-14.3.sum.amd64: b5fab4faaa499e0cd77b5c9069af13fc9aa97fbd94cf823576dcc2543be48a7d
-14.3.size.amd64: 110305961
+14.3.timestamp.amd64: 1767043430
+14.3.sum.amd64: af31b8c860af15a957e3594e9540a41a3943504503bddcfc0b65800e39b12659
+14.3.size.amd64: 111249616
 14.3.source.amd64: "https://images.all101bsd.download/ntfy/14.3-amd64-image.appjail"
 14.3.source.amd64+: "http://appjail.hpc.at/ntfy/14.3-amd64-image.appjail"
+maintenance: "This image is uploading, please wait a moment and try again. If you are importing this image using a Makejail that has the '--<name>_ajspec' argument, you can use the 'reproduce' method to use 'appjail-reproduce'. See 'appjail-image(5)' for details."
