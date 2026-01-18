@@ -1,6 +1,6 @@
 INCLUDE options/options.makejail
 
-ARG ntfy_tag=13.5
+ARG ntfy_tag=14.3
 ARG ntfy_ajspec=gh+AppJail-makejails/ntfy
 
 FROM --entrypoint "${ntfy_ajspec}" ntfy:${ntfy_tag}
