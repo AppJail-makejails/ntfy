@@ -1,14 +1,15 @@
 tags+: 14.3
 14.3.arch: amd64
 14.3.name: "ntfy"
-14.3.timestamp.amd64: 1768816173
-14.3.sum.amd64: fae137f5ccf4066d6636774b2aa8a7a67815089ff5da3f1bebd66e65284716ad
-14.3.size.amd64: 111755870
+14.3.timestamp.amd64: 1768957603
+14.3.sum.amd64: 5e1c3c31cb590115bad11b92a34284fb2761a625075b33a1c36e680313cc68a0
+14.3.size.amd64: 112082763
 14.3.source.amd64: "http://appjail.hpc.at/ntfy/14.3-amd64-image.appjail"
 tags+: 15
 15.arch: amd64
 15.name: "ntfy"
-15.timestamp.amd64: 1768816460
-15.sum.amd64: a19d9a28432767c75fce86284976e0faa41f7e4355f53c9b5b56748c17d01c44
-15.size.amd64: 282423596
+15.timestamp.amd64: 1768957966
+15.sum.amd64: 53786d355d4ff43790efb8bfac6b9380dd2c0fc70a3e691f29ba9e673059f075
+15.size.amd64: 282795736
 15.source.amd64: "http://appjail.hpc.at/ntfy/15-amd64-image.appjail"
+maintenance: "This image is uploading, please wait a moment and try again. If you are importing this image using a Makejail that has the '--<name>_ajspec' argument, you can use the 'reproduce' method to use 'appjail-reproduce'. See 'appjail-image(5)' for details."
