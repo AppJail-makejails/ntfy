@@ -1,9 +1,5 @@
-INCLUDE options/options.makejail
+ARG ntfy_from=ghcr.io/appjail-makejails/ntfy
+ARG ntfy_tag=latest
 
-ARG ntfy_tag=14.3
-ARG ntfy_ajspec=gh+AppJail-makejails/ntfy
-
-FROM --entrypoint "${ntfy_ajspec}" ntfy:${ntfy_tag}
-
-SYSRC ntfy_enable=YES
-SERVICE ntfy start
+OPTION overwrite=force
+OPTION from=${ntfy_from}:${ntfy_tag}
